@@ -1,2 +1,5 @@
-./demo-frontend\node_modules
-./demo-backend\node_modules
+/demo-backend/node_modules/
+/demo-frontend/node_modules/
+
+# Optional: ignore React build folder
+/demo-frontend/build/
